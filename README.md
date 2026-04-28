@@ -113,6 +113,8 @@ x[n] → Raw ECG Signal
 * Heart rate (BPM)
 * Condition classification
 
+![Results](Images/Results.png)
+
 ---
 
 ## Dataset
